@@ -21,15 +21,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install img_processing
 ```
 
-## Usage
-
-```python
-from img_processing.processing import transformation
-result = transformation.sua_funcao(img)
-```
 
 ## Author
 Rafael
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
