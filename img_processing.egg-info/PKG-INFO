@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: img_processing
+Version: 0.0.1
+Summary: Image Processing Package using Skimage
+Home-page: https://github.com/RafaPassos-RAP/image-processing-package
+Author: Rafael
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # img_processing
 
 Description. 
